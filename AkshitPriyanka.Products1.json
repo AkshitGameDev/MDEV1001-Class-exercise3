@@ -1,0 +1,69 @@
+[{
+  "_id": {
+    "$oid": "65fb8d618f7bb309cd11d92b"
+  },
+  "NAME": "Wireless Speaker",
+  "CATAGORY": "electronics",
+  "PRICE": 99.99,
+  "RATING": 10,
+  "RELEASE_DATE": "2019-02-18",
+  "PRODUCTSMANUFACTURER": "CanidianSound",
+  "price": 0
+},
+{
+  "_id": {
+    "$oid": "65fb8d618f7bb309cd11d92d"
+  },
+  "NAME": "TV",
+  "CATAGORY": "electronics",
+  "PRICE": 200,
+  "RATING": 1,
+  "RELEASE_DATE": "2009-11-02",
+  "PRODUCTSMANUFACTURER": "sony",
+  "price": 0
+},
+{
+  "_id": {
+    "$oid": "65fb8d618f7bb309cd11d92e"
+  },
+  "NAME": "lipstick",
+  "CATAGORY": "cosmetics",
+  "PRICE": 20,
+  "RATING": 8,
+  "RELEASE_DATE": "2014-09-03",
+  "PRODUCTSMANUFACTURER": "chenel"
+},
+{
+  "_id": {
+    "$oid": "65fb8d618f7bb309cd11d932"
+  },
+  "NAME": "airpods",
+  "CATAGORY": "electronics",
+  "PRICE": 75,
+  "RATING": 10,
+  "RELEASE_DATE": "2021-07-08",
+  "PRODUCTSMANUFACTURER": "apple",
+  "price": 0
+},
+{
+  "_id": {
+    "$oid": "65fb8d618f7bb309cd11d933"
+  },
+  "NAME": "nail polish",
+  "CATAGORY": "cosmetics",
+  "PRICE": 25,
+  "RATING": 6,
+  "RELEASE_DATE": "2016-04-19",
+  "PRODUCTSMANUFACTURER": "chenel"
+},
+{
+  "_id": {
+    "$oid": "65fb9c6448d3b3edf28aeb26"
+  },
+  "NAME": "unaliving super cool laser weapon",
+  "CATEGORY": "weapon",
+  "PRICE": 2000,
+  "MANUFACTURER": "Akshit Galactic Regime",
+  "RATING": 8,
+  "RELEASE_DATE": "2024-03-20"
+}]

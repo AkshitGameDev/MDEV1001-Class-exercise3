@@ -1,0 +1,82 @@
+﻿[
+    {
+        "NAME": "Canned tuna",
+        "CATAGORY": "food",
+        "PRICE": 2.99,
+        "MANUFACTURER": "CanidianTuna",
+        "RATING": 7,
+        "RELEASE_DATE": "2001-05-11"
+    },
+    {
+        "NAME": "Wireless Speaker",
+        "CATAGORY": "electronics",
+        "PRICE": 99.99,
+        "MANUFACTURER": "CanidianSound",
+        "RATING": 10,
+        "RELEASE_DATE": "2019-02-18"
+    },
+    {
+        "NAME": "Sugar ",
+        "CATAGORY": "bakery",
+        "PRICE": 5,
+        "MANUFACTURER": "Rogers ",
+        "RATING": 4,
+        "RELEASE_DATE": "2015-05-09"
+    },
+    {
+        "NAME": "TV",
+        "CATAGORY": "electronics",
+        "PRICE": 200,
+        "MANUFACTURER": "sony",
+        "RATING": 1,
+        "RELEASE_DATE": "2009-11-02"
+    },
+    {
+        "NAME": "lipstick",
+        "CATAGORY": "cosmetics",
+        "PRICE": 20,
+        "MANUFACTURER": "chenel",
+        "RATING": 8,
+        "RELEASE_DATE": "2014-09-03"
+    },
+    {
+        "NAME": "eggs",
+        "CATAGORY": "food",
+        "PRICE": 6.99,
+        "MANUFACTURER": "wallmart",
+        "RATING": 10,
+        "RELEASE_DATE": "2010-10-22"
+    },
+    {
+        "NAME": "bread",
+        "CATAGORY": "bakery",
+        "PRICE": 3,
+        "MANUFACTURER": "wallmart",
+        "RATING": 7,
+        "RELEASE_DATE": "2010-12-18"
+    },
+    {
+        "NAME": "apple",
+        "CATAGORY": "food",
+        "PRICE": 5,
+        "MANUFACTURER": "ana farms",
+        "RATING": 8,
+        "RELEASE_DATE": "2017-06-29"
+    },
+    {
+        "NAME": "airpods",
+        "CATAGORY": "electronics",
+        "PRICE": 75,
+        "MANUFACTURER": "apple",
+        "RATING": 10,
+        "RELEASE_DATE": "2021-07-08"
+    },
+    {
+        "NAME": "nail polish",
+        "CATAGORY": "cosmetics",
+        "PRICE": 25,
+        "MANUFACTURER": "chenel",
+        "RATING": 6,
+        "RELEASE_DATE": "2016-04-19"
+    }
+]
